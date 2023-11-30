@@ -7,6 +7,7 @@ drawings:
   persist: false
 transition: slide-left
 title: 個人開発がおすすめな理由
+info: 個人開発がおすすめな理由
 mdc: true
 ---
 
